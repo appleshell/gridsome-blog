@@ -12,3 +12,8 @@ This is the project you get when you run `gridsome create new-project`.
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+--------------------------------------------------------------------------------
+## 博客作业地址：https://gridsome-blog-nu.vercel.app/
+
+## strapi访问地址：http://113.31.155.103:1337/admin
